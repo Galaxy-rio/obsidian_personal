@@ -44,7 +44,8 @@
     "Index": 32,
     "iSH": 33,
     "Git": 34,
-    "Tutorial": 35
+    "Tutorial": 35,
+    "proxy": 36
   },
   "_version": 3
 }
