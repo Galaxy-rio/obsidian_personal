@@ -5,8 +5,20 @@ tags: [Index]
 
 > 这是一个私有Obsidian仓库。
 
-- [[Curio/Curio|Curio]]
-- [[Knowledge/Knowledge|Knowledge]]
-- [[Misc/Misc|Misc]]
-- [[Museion/Museion|Museion]]
-- [[Tutorials/Tutorials|Tutorials]]
+2025年9月起用
+
+## [[Curio/Curio|Curio]]
+> 新奇小玩意
+
+## [[Knowledge/Knowledge|Knowledge]]
+> 知识
+
+## [[Misc/Misc|Misc]]
+> 杂物堆
+
+## [[Museion/Museion|Museion]]
+> 动画、书籍、电影
+
+## [[Tutorials/Tutorials|Tutorials]]
+> 教程
+

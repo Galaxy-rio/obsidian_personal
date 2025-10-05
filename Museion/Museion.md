@@ -9,19 +9,21 @@ tags: [Index]
 filters:
   and:
     - file.inFolder("Museion/Anime")
+formulas:
+  导演: 导演[0]
 views:
   - type: cards
     name: 表格
     order:
       - file.name
-      - 导演
+      - formula.导演
       - status
     sort:
       - property: file.ctime
         direction: DESC
     image: note.cover
     imageAspectRatio: 1.4
-    cardSize: 150
+    cardSize: 140
 
 ```
 
@@ -45,7 +47,7 @@ views:
     image: note.cover
     imageFit: contain
     imageAspectRatio: 1.4
-    cardSize: 150
+    cardSize: 140
 
 ```
 

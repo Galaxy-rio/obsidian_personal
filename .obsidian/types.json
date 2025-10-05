@@ -49,6 +49,9 @@
     "created": "datetime",
     "modified": "datetime",
     "staus": "text",
-    "放送开始": "date"
+    "放送开始": "date",
+    "type": "multitext",
+    "制作": "multitext",
+    "导演": "multitext"
   }
 }
