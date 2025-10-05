@@ -1,0 +1,25 @@
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+
+# === Obsidian 本地状态（不建议同步） ===
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/appearance.css
+.obsidian/app.json
+.obsidian/workspace.json
+
+# === 仅忽略特定配置文件（保留其他设置方便多设备同步） ===
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-completr/scanned_words.txt
+
+# === 编辑器 / IDE 临时文件 ===
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# === 系统 / 备份文件 ===
+*.bak
+*.swp
+*~

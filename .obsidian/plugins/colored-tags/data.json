@@ -1,0 +1,50 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "meta-lens": 1,
+    "色散": 2,
+    "色差": 3,
+    "超色差": 4,
+    "消色差": 5,
+    "色差调控": 6,
+    "super-dispersive": 7,
+    "chromatic-dispersion": 8,
+    "review": 9,
+    "metasurface": 10,
+    "spectral-imager": 11,
+    "image-differentiation": 12,
+    "volumetric-imaging": 13,
+    "spectrometer": 14,
+    "angle-resolved-spectrometer": 15,
+    "fields-of-view": 16,
+    "topological": 17,
+    "nonlocal": 18,
+    "non-hermitian": 19,
+    "spatio-temporal-metasurfaces": 20,
+    "piv": 21,
+    "内窥": 22,
+    "综述": 23,
+    "ldv": 24,
+    "excalidraw": 25,
+    "手工": 26,
+    "ESP32": 27,
+    "cookies": 28,
+    "SJTU": 29,
+    "sdds": 30,
+    "sdsd": 31,
+    "Index": 32,
+    "iSH": 33,
+    "Git": 34,
+    "Tutorial": 35
+  },
+  "_version": 3
+}

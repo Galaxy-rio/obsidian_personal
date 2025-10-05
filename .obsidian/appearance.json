@@ -1,0 +1,20 @@
+{
+  "accentColor": "#fdb092",
+  "cssTheme": "Cupertino",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "banner_fix",
+    "custom-background",
+    "custom-rainbow-colors",
+    "minimal-cards",
+    "notion-cards",
+    "its-frontmatter",
+    "extended-colorschemes",
+    "floating-search-bar"
+  ],
+  "monospaceFontFamily": "Consolas",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "interfaceFontFamily": "筑紫A丸+Sleek by旧时光",
+  "textFontFamily": "筑紫A丸+Sleek by旧时光"
+}

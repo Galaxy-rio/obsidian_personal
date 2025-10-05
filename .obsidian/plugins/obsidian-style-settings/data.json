@@ -1,0 +1,19 @@
+{
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "cupertino@@windows-mode-off": false,
+  "cupertino@@sidedock-glass-off": false,
+  "cupertino@@sidedock-glass-tint-off": false,
+  "cupertino@@active-line-off": false,
+  "cupertino@@tabs-autosize-off": false,
+  "cupertino@@clean-link-off": false,
+  "cupertino@@accented-frame-opacity": 15,
+  "cupertino@@hover-sidedock-off": true,
+  "cupertino@@compact-actions-off": true,
+  "cupertino@@hide-status-off": true,
+  "cupertino@@image-zoom-off": false,
+  "cupertino@@center-tabs-off": true,
+  "cupertino@@hide-frontmatter-off": false,
+  "cupertino@@empty-state-off": false
+}
