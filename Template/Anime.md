@@ -1,11 +1,11 @@
 ---
 title: <% tp.file.title %>
-author:
+导演:
 cover: 
-translator: 
-sub-title: 
+制作: 
 original-title: 
-ISBN: 
+放送开始: 
+话数: 
 created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %> 
 modified: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
 status: 
