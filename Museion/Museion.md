@@ -12,6 +12,10 @@ filters:
 views:
   - type: cards
     name: 表格
+    order:
+      - file.name
+      - 导演
+      - status
     sort:
       - property: file.ctime
         direction: DESC
@@ -21,15 +25,20 @@ views:
 
 ```
 
-
 ## Books
 ```base
 filters:
   and:
     - file.inFolder("Museion/Books")
+formulas:
+  作者: author[0]
 views:
   - type: cards
     name: 表格
+    order:
+      - file.name
+      - formula.作者
+      - status
     sort:
       - property: file.ctime
         direction: DESC
