@@ -10,7 +10,8 @@
     "notion-cards",
     "its-frontmatter",
     "extended-colorschemes",
-    "floating-search-bar"
+    "floating-search-bar",
+    "metadata_books"
   ],
   "monospaceFontFamily": "Consolas",
   "showRibbon": true,

@@ -52,6 +52,7 @@
     "放送开始": "date",
     "type": "multitext",
     "制作": "multitext",
-    "导演": "multitext"
+    "导演": "multitext",
+    "cssclass": "text"
   }
 }
