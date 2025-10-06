@@ -10,7 +10,7 @@ filters:
   and:
     - file.inFolder("Museion/Anime")
 formulas:
-  导演: 导演[0]
+  导演: if(导演.length > 1, 导演[0] + " 等", 导演[0])
 views:
   - type: cards
     name: 表格
@@ -33,7 +33,7 @@ filters:
   and:
     - file.inFolder("Museion/Books")
 formulas:
-  作者: author[0]
+  作者: if(author.length > 1, author[0] + " 等", author[0])
 views:
   - type: cards
     name: 表格
