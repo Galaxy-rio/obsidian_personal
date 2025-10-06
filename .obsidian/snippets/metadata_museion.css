@@ -34,9 +34,12 @@
     left: -220px;
 }
 
+/*
+应用于预览模式
 .book.is-live-preview .metadata-container,
 .anime.is-live-preview .metadata-container,
 .movie.is-live-preview .metadata-container,
+*/
 .book.markdown-preview-view .metadata-container,
 .anime.markdown-preview-view .metadata-container,
 .movie.markdown-preview-view .metadata-container {

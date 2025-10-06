@@ -1,37 +1,49 @@
 {
   "workspaces": {
-    "写作": {
+    "创作": {
       "main": {
         "id": "b215a269bb8e3736",
         "type": "split",
         "children": [
           {
-            "id": "5b3839b14448eed6",
+            "id": "b8e0af97f8378a91",
             "type": "tabs",
             "children": [
               {
-                "id": "91479ad9b071e6b8",
+                "id": "80279c5f75c66e00",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
                 },
-                "group": "a477281d9fe48ede"
+                "group": "5256420581830c67"
               }
             ]
           },
           {
-            "id": "8d7d071009d48514",
+            "id": "e06c165ade254dfa",
             "type": "tabs",
             "children": [
               {
-                "id": "48e28a13fd486ee5",
+                "id": "9c1a46d42daeea6b",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
                 },
-                "group": "a477281d9fe48ede"
+                "group": "5256420581830c67"
               }
             ]
           }
@@ -53,8 +65,11 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
-                  }
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
                 }
               },
               {
@@ -69,7 +84,9 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
                 }
               },
               {
@@ -77,7 +94,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
                 }
               }
             ]
@@ -93,6 +112,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Curio/Fluid Simulation Pendant/Fluid Simulation Pendant.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -100,7 +120,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Fluid Simulation Pendant 的反向链接列表"
                 }
               },
               {
@@ -109,12 +131,28 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "Curio/Fluid Simulation Pendant/Fluid Simulation Pendant.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Fluid Simulation Pendant 的出链列表"
+                }
+              },
+              {
+                "id": "91479ad9b071e6b8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -127,14 +165,16 @@
           {
             "id": "c143b03034b634c2",
             "type": "tabs",
-            "dimension": 31.283422459893046,
+            "dimension": 40.12345679012345,
             "children": [
               {
                 "id": "a911affb619db0cd",
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
-                  "state": {}
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
                 }
               }
             ]
@@ -142,14 +182,21 @@
           {
             "id": "13c36d762c147232",
             "type": "tabs",
-            "dimension": 38.05704099821747,
+            "dimension": 29.218106995884767,
             "children": [
               {
                 "id": "01ece5e7481e3ba6",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "README.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "README 的大纲"
                 }
               },
               {
@@ -159,8 +206,12 @@
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
                 }
               }
             ]
@@ -168,14 +219,16 @@
           {
             "id": "6d68dfd3f84bc716",
             "type": "tabs",
-            "dimension": 30.65953654188948,
+            "dimension": 30.658436213991767,
             "children": [
               {
                 "id": "33b24db09ecd9ab1",
                 "type": "leaf",
                 "state": {
                   "type": "git-view",
-                  "state": {}
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
                 }
               },
               {
@@ -183,32 +236,32 @@
                 "type": "leaf",
                 "state": {
                   "type": "git-history-view",
-                  "state": {}
+                  "state": {},
+                  "icon": "history",
+                  "title": "History"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 288.5
+        "width": 310.5
       },
       "left-ribbon": {
         "hiddenItems": {
+          "bases:创建新数据库": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
           "daily-notes:打开/创建今天的日记": false,
           "command-palette:打开命令面板": false,
           "workspaces:管理工作区布局": false,
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
-          "templater-obsidian:Templater": false,
-          "webpage-html-export:Export Vault to HTML": true,
-          "homepage:Open homepage": false
+          "templater-obsidian:Templater": false
         }
       },
-      "active": "33b24db09ecd9ab1",
-      "mtime": "2024-09-05T16:00:42+08:00"
+      "active": "80279c5f75c66e00",
+      "mtime": "2025-10-06T15:25:06+08:00"
     }
   },
-  "active": "写作"
+  "active": "创作"
 }

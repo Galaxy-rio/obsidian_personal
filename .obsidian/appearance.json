@@ -11,7 +11,8 @@
     "its-frontmatter",
     "extended-colorschemes",
     "floating-search-bar",
-    "metadata_books"
+    "metadata_books",
+    "metadata_museion"
   ],
   "monospaceFontFamily": "Consolas",
   "showRibbon": true,
