@@ -12,5 +12,3 @@ status:
 tags:
 类别: "[[../Museion|Museion]]"
 ---
-
-# <% tp.file.title %>

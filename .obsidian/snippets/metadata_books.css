@@ -1,33 +1,50 @@
-/* FrontMatter 读书笔记样式 */
-/* 来自 Discord 社区用户 @reaty 的样式分享 */
-.book .cm-scroller {
-padding-left: 10% !important;
-padding-right: 10% !important;
+.book .cm-scroller,
+.anime .cm-scroller,
+.movie .cm-scroller {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
 } 
 
 .book .cm-sizer,
-.book .markdown-preview-sizer {
-    margin-left: 0px !important;
-    margin-right: 0px !important;
+.anime .cm-sizer,
+.movie .cm-sizer,
+.book .markdown-preview-sizer,
+.anime .markdown-preview-sizer,
+.movie .markdown-preview-sizer {
+    /*margin-left: 0px !important;
+    margin-right: 0px !important;*/
 }
 
-.book .inline-title {
+.book .inline-title,
+.anime .inline-title,
+.movie .inline-title {
     display: none;
 }
 
-.book img[alt="cover"] {
-    display: inline !important;
-    width: 10px;
-    height: 300px;
+.book img[alt="cover"],
+.anime img[alt="cover"],
+.movie img[alt="cover"] {
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+    height: 280px;
     object-fit: cover;
-   }
+    position: relative;
+    left: -220px;
+}
 
 .book.is-live-preview .metadata-container,
-.book.markdown-preview-view .metadata-container {
+.anime.is-live-preview .metadata-container,
+.movie.is-live-preview .metadata-container,
+.book.markdown-preview-view .metadata-container,
+.anime.markdown-preview-view .metadata-container,
+.movie.markdown-preview-view .metadata-container {
     position: absolute;
-    display: block;
-    width: calc(80% - 330px);
-    left: calc(10% + 330px);
-    max-height: 300px;
-    overflow-y: scroll
+    left: calc(50%  - 100px);   
+    width: calc(400px);
+    max-height: 280px;
+    overflow-y: auto;
+    padding-left: 0;
+    margin: 0;
 }
