@@ -61,7 +61,12 @@
     "Structure": 49,
     "Dataview": 50,
     "Sudoku": 51,
-    "TikZ": 52
+    "TikZ": 52,
+    "chain-view-of-xy-wing-and-w-wing": 53,
+    "blossom-loop": 54,
+    "result-calculation": 55,
+    "nice-loop-and-non-nice-loop": 56,
+    "example-3": 57
   },
   "_version": 3
 }

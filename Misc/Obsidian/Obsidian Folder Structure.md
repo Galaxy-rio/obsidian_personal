@@ -26,33 +26,3 @@ Theme:
 ```
 
 对于较复杂的 `Project`，将 `Note.md` 作为索引，同级创建 `detail` 文件夹存储项目的所有文件。
-
-```dataviewjs
-const sudoku = `
-530070000
-600195000
-098000060
-800060003
-400803001
-700020006
-060000280
-000419005
-000080079
-`.replace(/\s+/g, '');
-
-// 创建容器
-const container = document.createElement("div");
-container.className = "sudoku-grid";
-
-// 填充格子
-for (let i = 0; i < sudoku.length; i++) {
-    const num = sudoku[i] === "0" ? "" : sudoku[i];
-    const cell = document.createElement("div");
-    cell.className = "sudoku-cell" + (sudoku[i] === "0" ? " empty" : "");
-    cell.textContent = num;
-    container.appendChild(cell);
-}
-
-// 挂到页面上
-dv.container.appendChild(container);
-```
