@@ -1,0 +1,53 @@
+/***** Sudoku renderer for Obsidian code blocks *****/
+
+body pre[class~="language-sudoku"] {
+  position: relative;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 1.8em;
+  line-height: 1.1em;
+  letter-spacing: 1.1em;
+  text-align: center;
+
+  /* 基础外观 */
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #000;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.15);
+  padding: 0.5em !important;
+  overflow: hidden;
+  white-space: pre;
+}
+
+/* 让背景画出 9×9 网格 + 每3格粗线 */
+body pre[class~="language-sudoku"] code {
+  display: block;
+  background-image:
+    /* 细线 */
+    linear-gradient(to right, #ccc 1px, transparent 1px),
+    linear-gradient(to bottom, #ccc 1px, transparent 1px),
+    /* 粗线（每3格） */
+    linear-gradient(to right, #000 2px, transparent 2px),
+    linear-gradient(to bottom, #000 2px, transparent 2px);
+  background-size:
+    1.8em 1.8em,
+    1.8em 1.8em,
+    calc(1.8em * 3) calc(1.8em * 9),
+    calc(1.8em * 9) calc(1.8em * 3);
+  background-repeat: repeat;
+  padding: 0.3em;
+}
+
+/* 让 0 或 . 显示为空白格 */
+body pre[class~="language-sudoku"] code {
+  color: #000;
+}
+body pre[class~="language-sudoku"] code {
+  -webkit-text-stroke: 0.2px #0002;
+}
+
+/* 美观的外观（非必要） */
+body pre[class~="language-sudoku"] {
+  background-color: #fdfdfd;
+}

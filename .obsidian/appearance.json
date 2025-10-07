@@ -12,7 +12,8 @@
     "extended-colorschemes",
     "floating-search-bar",
     "metadata_books",
-    "metadata_museion"
+    "metadata_museion",
+    "sudoku"
   ],
   "monospaceFontFamily": "Consolas",
   "showRibbon": true,
