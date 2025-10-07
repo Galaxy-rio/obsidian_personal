@@ -40,10 +40,19 @@ const sudoku = `
 000080079
 `.replace(/\s+/g, '');
 
-const container = dv.el("div", "", { cls: "sudoku-grid" });
+// 创建容器
+const container = document.createElement("div");
+container.className = "sudoku-grid";
+
+// 填充格子
 for (let i = 0; i < sudoku.length; i++) {
-  const num = sudoku[i] === "0" ? "" : sudoku[i];
-  const cell = dv.el("div", num, { cls: ["sudoku-cell", sudoku[i] === "0" ? "empty" : ""] });
-  container.appendChild(cell);
+    const num = sudoku[i] === "0" ? "" : sudoku[i];
+    const cell = document.createElement("div");
+    cell.className = "sudoku-cell" + (sudoku[i] === "0" ? " empty" : "");
+    cell.textContent = num;
+    container.appendChild(cell);
 }
+
+// 挂到页面上
+dv.container.appendChild(container);
 ```
