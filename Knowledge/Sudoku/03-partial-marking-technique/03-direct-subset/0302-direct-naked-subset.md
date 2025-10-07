@@ -1,5 +1,6 @@
 ---
 description: Direct Naked Subset
+反向链接: "[[../partial-marking-technique|partial-marking-technique]]"
 ---
 
 # 直观显性数组

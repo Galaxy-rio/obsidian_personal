@@ -1,5 +1,6 @@
 ---
 description: Law of Leftover
+反向链接: "[[partial-marking-technique]]"
 ---
 
 # 割补（LoL）

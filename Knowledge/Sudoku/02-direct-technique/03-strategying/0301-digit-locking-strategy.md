@@ -1,5 +1,6 @@
 ---
 description: Digit-Locking Strategy
+反向链接: "[[../direct-technique|direct-technique]]"
 ---
 
 # 数字锁定策略

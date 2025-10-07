@@ -1,5 +1,6 @@
 ---
 description: Crosshatching
+反向链接: "[[direct-technique]]"
 ---
 
 # 排除

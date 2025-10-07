@@ -1,5 +1,6 @@
 ---
 description: History of Sudoku
+反向链接: "[[sudoku-basics]]"
 ---
 
 # 数独历史

@@ -54,6 +54,7 @@
     "制作": "multitext",
     "导演": "multitext",
     "cssclass": "text",
-    "级别": "number"
+    "级别": "number",
+    "反向链接": "text"
   }
 }

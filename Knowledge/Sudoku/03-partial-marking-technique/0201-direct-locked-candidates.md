@@ -1,5 +1,6 @@
 ---
 description: Direct Locked Candidates
+反向链接: "[[partial-marking-technique]]"
 ---
 
 # 直观区块

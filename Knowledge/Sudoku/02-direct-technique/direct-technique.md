@@ -1,7 +1,7 @@
 ---
-title: sudoku-basics
-created: 2025-10-07 16:35:28
-modified: 2025-10-07 16:35:28
+title: direct-technique
+created: 2025-10-07 16:47:33
+modified: 2025-10-07 16:47:33
 status: Done
 tags:
   - Index
@@ -11,14 +11,14 @@ cssclasses:
 project: "[[../Sudoku|Sudoku]]"
 ---
 
-# sudoku-basics
+# direct-technique
 
-> 数独概述
+> 直观技巧
 
 ```base
 filters:
   and:
-    - file.inFolder("Knowledge/Sudoku/01-sudoku-basics")
+    - file.inFolder("Knowledge/Sudoku/02-direct-technique")
     - '!file.hasTag("index")'
 views:
   - type: cards

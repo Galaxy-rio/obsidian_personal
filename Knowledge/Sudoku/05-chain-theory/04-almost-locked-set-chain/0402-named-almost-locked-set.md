@@ -20,7 +20,7 @@ description: Named Almost Locked Set
 
 因为强链关系的推理和之前待定数组需要用到的那些规则完全一样，所以就不重复说明了。总之，结果就是头尾的交集，即 `r3c7 <> 2`。
 
-本题用到了三个强链关系，且三个强链关系全部是从待定数组之中诞生，所以我们把这个结构归纳为待定数组的一种特殊构造。这是今天要学到的第一种，即**待定数组 XY-Wing**（Almost Locked Set XY-Wing，简称 ALS-XY-Wing）。为什么要带一个 XY-Wing 的头衔呢？你把这个链里用到的全部数字排列展开来，你会得到 2、7、7、9、9、2 的序列。在之前 [#chain-view-of-xy-wing-and-w-wing](../02-x-chain-and-multidigit-chain/04-named-multidigit-chain.md#chain-view-of-xy-wing-and-w-wing "mention") 的内容里，我们介绍到 XY-Wing 的链的格式。你可以仔细对比一下，它的排列（尤其是数字的序列）和这里的这个排列模式完全一样，因此我们给这个技巧冠了个 XY-Wing 的名。
+本题用到了三个强链关系，且三个强链关系全部是从待定数组之中诞生，所以我们把这个结构归纳为待定数组的一种特殊构造。这是今天要学到的第一种，即**待定数组 XY-Wing**（Almost Locked Set XY-Wing，简称 ALS-XY-Wing）。为什么要带一个 XY-Wing 的头衔呢？你把这个链里用到的全部数字排列展开来，你会得到 2、7、7、9、9、2 的序列。在之前 [#chain-view-of-xy-wing-and-w-wing](../02-x-chain-and-multidigit-chain/0204-named-multidigit-chain.md#chain-view-of-xy-wing-and-w-wing "mention") 的内容里，我们介绍到 XY-Wing 的链的格式。你可以仔细对比一下，它的排列（尤其是数字的序列）和这里的这个排列模式完全一样，因此我们给这个技巧冠了个 XY-Wing 的名。
 
 下面我们再来看一个例子。
 

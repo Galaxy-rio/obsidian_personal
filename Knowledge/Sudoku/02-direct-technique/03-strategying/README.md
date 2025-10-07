@@ -1,5 +1,6 @@
 ---
 description: Strategying
+反向链接: "[[../direct-technique|direct-technique]]"
 ---
 
 # 做题策略

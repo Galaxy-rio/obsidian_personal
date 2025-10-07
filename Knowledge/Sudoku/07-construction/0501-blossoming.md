@@ -32,7 +32,7 @@ description: Blossoming
 
 <figure><img src="../.gitbook/assets/images_0367.png" alt="" width="375"><figcaption><p>绽放环，但是是之前的例子</p></figcaption></figure>
 
-如图所示，这是之前 [#blossom-loop](../05-chain-theory/11-dynamic-chain/03-elimination-analysis-on-dynamic-loop.md#blossom-loop "mention") 里提供的一个例子。这个例子当时是要读者自己去理解，下面我们就用新视角来看这个例子。
+如图所示，这是之前 [#blossom-loop](../05-chain-theory/11-dynamic-chain/1103-elimination-analysis-on-dynamic-loop.md#blossom-loop "mention") 里提供的一个例子。这个例子当时是要读者自己去理解，下面我们就用新视角来看这个例子。
 
 <figure><img src="../.gitbook/assets/images_0492.png" alt="" width="375"><figcaption><p>毛刺连续环</p></figcaption></figure>
 

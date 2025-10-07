@@ -1,5 +1,6 @@
 ---
 description: Direct Complex Single
+反向链接: "[[partial-marking-technique]]"
 ---
 
 # 直观复杂出数

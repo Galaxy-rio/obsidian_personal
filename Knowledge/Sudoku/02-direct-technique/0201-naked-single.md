@@ -1,5 +1,6 @@
 ---
 description: Naked Single
+反向链接: "[[direct-technique]]"
 ---
 
 # 唯一余数

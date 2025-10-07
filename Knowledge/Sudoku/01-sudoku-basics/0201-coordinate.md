@@ -1,5 +1,6 @@
 ---
 description: Coordinate
+反向链接: "[[sudoku-basics]]"
 ---
 
 # 坐标
@@ -8,7 +9,7 @@ description: Coordinate
 
 ## 坐标 <a href="#intro-to-coordinates" id="intro-to-coordinates"></a>
 
-所谓**坐标**（Coordinate），指的是表达单元格在盘面里具体位置的一种手段。由于数独游戏在不同国家的文字描述上有所差异，不同国家对坐标的表述方式也有所不同。本文会将全部表达都介绍一次提供以后临时查阅，不过本教程整体只会使用第一种表示方式：[RCB 表示](02-coordinate.md#rcb-notation)。
+所谓**坐标**（Coordinate），指的是表达单元格在盘面里具体位置的一种手段。由于数独游戏在不同国家的文字描述上有所差异，不同国家对坐标的表述方式也有所不同。本文会将全部表达都介绍一次提供以后临时查阅，不过本教程整体只会使用第一种表示方式：[RCB 表示](0201-coordinate.md#rcb-notation)。
 
 我们拿一个题作说明，后续都按这个图里的内容作说明。
 

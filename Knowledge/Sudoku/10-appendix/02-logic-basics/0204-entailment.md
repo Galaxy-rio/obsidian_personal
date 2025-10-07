@@ -35,7 +35,7 @@ $$
 P \to Q \equiv (P \land Q) \lor (\lnot P \land Q) \lor (\lnot P \land \lnot Q)
 $$
 
-我们使用前面 [01-brief-introduction-to-logic.md](01-brief-introduction-to-logic.md "mention") 里所学到的公式进行化简：
+我们使用前面 [01-brief-introduction-to-logic.md](0201-brief-introduction-to-logic.md "mention") 里所学到的公式进行化简：
 
 $$
 \begin{align*}

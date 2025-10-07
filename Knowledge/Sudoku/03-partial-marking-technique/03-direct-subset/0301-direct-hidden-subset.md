@@ -1,5 +1,6 @@
 ---
 description: Direct Hidden Subset
+反向链接: "[[../partial-marking-technique|partial-marking-technique]]"
 ---
 
 # 直观隐性数组

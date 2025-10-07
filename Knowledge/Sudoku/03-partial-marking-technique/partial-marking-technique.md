@@ -1,7 +1,7 @@
 ---
-title: sudoku-basics
-created: 2025-10-07 16:35:28
-modified: 2025-10-07 16:35:28
+title: partial-marking-technique
+created: 2025-10-07 17:28:02
+modified: 2025-10-07 17:28:02
 status: Done
 tags:
   - Index
@@ -11,14 +11,14 @@ cssclasses:
 project: "[[../Sudoku|Sudoku]]"
 ---
 
-# sudoku-basics
+# partial-marking-technique
 
-> 数独概述
+> 局部标记技巧
 
 ```base
 filters:
   and:
-    - file.inFolder("Knowledge/Sudoku/01-sudoku-basics")
+    - file.inFolder("Knowledge/Sudoku/03-partial-marking-technique")
     - '!file.hasTag("index")'
 views:
   - type: cards
