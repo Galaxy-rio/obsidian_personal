@@ -3,4 +3,3 @@ views:
     name: 表格
     order:
       - file.name
-      - file.embeds
