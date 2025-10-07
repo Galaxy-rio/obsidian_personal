@@ -131,7 +131,7 @@ description: Rank of Link & Elimination
 
 ## 半环和全环的本质 <a href="#essence-of-nice-and-nonnice-loop" id="essence-of-nice-and-nonnice-loop"></a>
 
-在之前[03-elimination-analysis-on-dynamic-loop.md](../chain-theory/11-dynamic-chain/03-elimination-analysis-on-dynamic-loop.md "mention")里，我们介绍过[#nice-loop-and-non-nice-loop](../chain-theory/11-dynamic-chain/03-elimination-analysis-on-dynamic-loop.md#nice-loop-and-non-nice-loop "mention")的定义。不过，从秩理论里我们学到了删数的秩和弱区域的秩的定义方式，此时半环和全环的定义就会有一个更加合理的说法。
+在之前[03-elimination-analysis-on-dynamic-loop.md](../05-chain-theory/11-dynamic-chain/03-elimination-analysis-on-dynamic-loop.md "mention")里，我们介绍过[#nice-loop-and-non-nice-loop](../05-chain-theory/11-dynamic-chain/03-elimination-analysis-on-dynamic-loop.md#nice-loop-and-non-nice-loop "mention")的定义。不过，从秩理论里我们学到了删数的秩和弱区域的秩的定义方式，此时半环和全环的定义就会有一个更加合理的说法。
 
 **如果一个结构的强弱区域数量一样多时，结构都被称为环。其中，当所有弱区域均为零秩弱区域时称为全环，不是所有弱区域都是零秩弱区域时称为半环。**
 
@@ -151,4 +151,4 @@ description: Rank of Link & Elimination
 
 <figure><img src="../.gitbook/assets/images_0675.png" alt="" width="375"><figcaption><p>复杂半环结构</p></figcaption></figure>
 
-如图所示。这是一个半环，强弱区域数是相同的，但是只有一个弱区域 `4n8` 是零秩弱区域，所以只能叫半环。顺带一提，这个题之前解释的时候就已经非常复杂了，它有 4 个强三元组，具体请回到[#example-3](../rank-theory/03-triplet/02-examples-using-truth-triplet.md#example-3 "mention")查看它的详细推理思路。
+如图所示。这是一个半环，强弱区域数是相同的，但是只有一个弱区域 `4n8` 是零秩弱区域，所以只能叫半环。顺带一提，这个题之前解释的时候就已经非常复杂了，它有 4 个强三元组，具体请回到[#example-3](../08-rank-theory/03-triplet/02-examples-using-truth-triplet.md#example-3 "mention")查看它的详细推理思路。

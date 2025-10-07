@@ -29,31 +29,24 @@
       }
     },
     {
-      "query": "path:MS  ",
+      "query": "path:Museion",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:Museion  ",
+      "query": "path:Tutorials  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:Tutorials  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
       "query": "path:Template  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 6073814
       }
     }
   ],
@@ -63,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.18147768809571185,
+  "centerStrength": 0.249303703703704,
+  "repelStrength": 11.8885925925926,
+  "linkStrength": 0.746133333333333,
+  "linkDistance": 220,
+  "scale": 0.06257248225792734,
   "close": true
 }

@@ -53,6 +53,7 @@
     "type": "multitext",
     "制作": "multitext",
     "导演": "multitext",
-    "cssclass": "text"
+    "cssclass": "text",
+    "级别": "number"
   }
 }
