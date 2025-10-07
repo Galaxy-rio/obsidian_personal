@@ -4,8 +4,29 @@ tags: [Index]
 
 # Index of Tutorials
 
+## Git
+
+```base
+filters:
+  and:
+    - file.inFolder("Tutorials/Git")
+views:
+  - type: cards
+    name: 表格
+    cardSize: 400
+
+```
+
 ## iSH
 
-- [[iSH/通过iSH使用Git配置Obsidian同步|通过iSH使用Git配置Obsidian同步]]
-- [[iSH/iSH配置代理|iSH配置代理]]
-- 
+```base
+filters:
+  and:
+    - file.inFolder("Tutorials/iSH")
+views:
+  - type: cards
+    name: 表格
+    cardSize: 400
+
+```
+

@@ -3,6 +3,13 @@ tags:
   - iSH
   - Git
   - Tutorial
+title: 通过ISH使用Git配置Obsidian同步
+created: 2025-10-04 23:46:06
+modified: 2025-10-05 00:24:54
+status: Done
+类别: "[[../Tutorials|Tutorials]]"
+cssclasses:
+  - tutorial
 ---
 
 # 通过 iSH 使用 Git 配置 Obsidian 同步

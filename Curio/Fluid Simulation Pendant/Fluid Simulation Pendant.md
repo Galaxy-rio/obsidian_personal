@@ -1,8 +1,14 @@
 ---
-date: 2025-09-29
 tags:
   - 手工
   - ESP32
+title: Fluid Simulation Pendant
+created: 2025-10-04 23:46:05
+modified: 2025-10-07 09:47:18
+status: On Going
+类别: "[[../Curio|Curio]]"
+cssclasses:
+  - curio
 ---
 
 # Fluid Simulation Pendant

@@ -2,7 +2,15 @@
 tags:
   - iSH
   - proxy
+title: iSH配置代理
+created: 2025-10-05 15:51:26
+modified: 2025-10-07 09:39:46
+status: Done
+类别: "[[../Tutorials|Tutorials]]"
+cssclasses:
+  - tutorial
 ---
+
 # iSH配置代理
 
 ## 查看代理软件本地代理
