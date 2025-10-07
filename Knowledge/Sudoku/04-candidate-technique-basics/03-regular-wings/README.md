@@ -1,5 +1,6 @@
 ---
 description: Regular Wing
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # XY-Wing 及推广

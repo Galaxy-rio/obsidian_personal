@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Multifish
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 复数鱼的基本推理

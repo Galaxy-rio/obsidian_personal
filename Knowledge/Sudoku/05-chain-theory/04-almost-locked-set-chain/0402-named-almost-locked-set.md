@@ -1,5 +1,6 @@
 ---
 description: Named Almost Locked Set
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 有技巧名的待定数组结构

@@ -1,5 +1,6 @@
 ---
 description: Definition of X-Chain & Multidigit Chain
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 同数链和异数链的定义

@@ -1,5 +1,6 @@
 ---
 description: Relations between Domino Loop & Multifish
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 多米诺环和复数鱼的关系

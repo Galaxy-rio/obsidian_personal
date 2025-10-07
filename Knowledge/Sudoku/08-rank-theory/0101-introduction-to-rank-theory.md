@@ -1,5 +1,6 @@
 ---
 description: Introduction to Rank Theory
+反向链接: "[[rank-theory]]"
 ---
 
 # 秩理论初步

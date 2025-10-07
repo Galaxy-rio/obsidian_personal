@@ -1,5 +1,6 @@
 ---
 description: Other Use Cases of Almost Locked Set
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 在链里的待定数组

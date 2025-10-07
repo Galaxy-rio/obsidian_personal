@@ -1,5 +1,6 @@
 ---
 description: Pigeonhole Principle
+反向链接: "[[../appendix|appendix]]"
 ---
 
 # 抽屉原理/鸽巢原理

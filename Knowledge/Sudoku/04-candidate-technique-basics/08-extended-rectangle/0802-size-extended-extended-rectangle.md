@@ -1,5 +1,6 @@
 ---
 description: Size-Extended Extended Rectangle
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 拓展矩形的规格推广

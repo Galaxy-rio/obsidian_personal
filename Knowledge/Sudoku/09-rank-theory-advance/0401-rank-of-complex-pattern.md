@@ -1,5 +1,6 @@
 ---
 description: Rank of Complex Pattern
+反向链接: "[[rank-theory-advance]]"
 ---
 
 # 复杂结构的秩

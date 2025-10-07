@@ -1,5 +1,6 @@
 ---
 description: Coloring
+反向链接: "[[../wrapping|wrapping]]"
 ---
 
 # 染色法

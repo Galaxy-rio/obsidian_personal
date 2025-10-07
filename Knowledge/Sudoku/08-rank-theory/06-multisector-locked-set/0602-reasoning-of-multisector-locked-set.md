@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Multisector Locked Set
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 网的基本推理

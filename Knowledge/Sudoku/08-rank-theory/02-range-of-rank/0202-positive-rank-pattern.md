@@ -1,5 +1,6 @@
 ---
 description: Positive-Rank Pattern
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 正秩结构

@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Link Triplet
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 弱三元组的基本推理

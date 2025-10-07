@@ -1,5 +1,6 @@
 ---
 description: Starting with Sue de Coq
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 从融合待定数组谈起

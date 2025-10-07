@@ -1,5 +1,6 @@
 ---
 description: Direct View & Law of Complement of Multisector Locked Set
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 网的直观和互补性

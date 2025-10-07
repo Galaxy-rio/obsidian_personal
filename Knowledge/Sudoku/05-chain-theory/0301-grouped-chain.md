@@ -1,5 +1,6 @@
 ---
 description: Grouped Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 区块链

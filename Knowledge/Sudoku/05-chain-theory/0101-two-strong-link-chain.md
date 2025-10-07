@@ -1,5 +1,6 @@
 ---
 description: Two-Strong-Link Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 双强链

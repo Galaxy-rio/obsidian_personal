@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Kraken Link
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛边的基本推理

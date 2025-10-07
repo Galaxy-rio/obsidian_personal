@@ -1,5 +1,6 @@
 ---
 description: Concept of Candidate
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 候选数的概念

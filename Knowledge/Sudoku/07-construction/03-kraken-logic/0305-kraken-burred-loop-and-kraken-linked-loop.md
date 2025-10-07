@@ -1,5 +1,6 @@
 ---
 description: Kraken Burred Loop & Kraken Linked Loop
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛刺环和毛边环

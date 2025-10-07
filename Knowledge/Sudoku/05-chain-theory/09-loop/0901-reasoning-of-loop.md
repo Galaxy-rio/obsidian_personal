@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Loop
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 环的基本推理

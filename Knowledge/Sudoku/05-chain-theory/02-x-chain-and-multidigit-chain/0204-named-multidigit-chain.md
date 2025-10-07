@@ -1,5 +1,6 @@
 ---
 description: Named Multidigit Chain
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 有技巧名的异数链

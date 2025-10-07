@@ -1,5 +1,6 @@
 ---
 description: Named Forcing Chains
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 有技巧名的强制链

@@ -1,5 +1,6 @@
 ---
 description: Rank-0 Pattern
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 零秩结构

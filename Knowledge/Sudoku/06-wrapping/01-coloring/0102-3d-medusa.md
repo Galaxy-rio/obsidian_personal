@@ -1,5 +1,6 @@
 ---
 description: 3D Medusa
+反向链接: "[[../wrapping|wrapping]]"
 ---
 
 # 异数染色

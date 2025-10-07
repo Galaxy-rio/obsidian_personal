@@ -1,5 +1,6 @@
 ---
 description: Examples of Sacrifice
+反向链接: "[[../construction|construction]]"
 ---
 
 # 牺牲的例子

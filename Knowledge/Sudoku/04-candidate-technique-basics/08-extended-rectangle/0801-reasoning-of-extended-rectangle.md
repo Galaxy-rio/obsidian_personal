@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Extended Rectangle
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 拓展矩形的基本推理

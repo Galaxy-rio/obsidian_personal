@@ -11,10 +11,9 @@ cssclasses:
 project: "[[../Sudoku|Sudoku]]"
 ---
 
-
 # candidate-technique-basics
 
-> 基础候选数技巧 
+> 基础候选数技巧
 
 ```base
 filters:

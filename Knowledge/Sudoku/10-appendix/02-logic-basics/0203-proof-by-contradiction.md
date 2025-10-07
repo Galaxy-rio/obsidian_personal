@@ -1,5 +1,6 @@
 ---
 description: Proof by Contradiction
+反向链接: "[[../appendix|appendix]]"
 ---
 
 # 反证法

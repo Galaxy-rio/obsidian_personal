@@ -1,5 +1,6 @@
 ---
 description: Almost Unique Rectangle Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 待定唯一矩形链（AUR 链）

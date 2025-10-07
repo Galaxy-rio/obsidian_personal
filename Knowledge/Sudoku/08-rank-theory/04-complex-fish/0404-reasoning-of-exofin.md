@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Exofin
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 外鱼鳍的基本推理

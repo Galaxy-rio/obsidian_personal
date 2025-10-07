@@ -1,5 +1,6 @@
 ---
 description: Terms
+反向链接: "[[appendix]]"
 ---
 
 # 术语索引

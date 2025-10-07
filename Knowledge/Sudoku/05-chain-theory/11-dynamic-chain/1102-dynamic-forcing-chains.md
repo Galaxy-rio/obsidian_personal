@@ -1,5 +1,6 @@
 ---
 description: Dynamic Forcing Chains
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 动态强制链

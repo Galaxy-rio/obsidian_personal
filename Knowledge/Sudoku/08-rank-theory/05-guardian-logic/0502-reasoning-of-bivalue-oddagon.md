@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Bivalue Oddagon
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 死环的基本推理

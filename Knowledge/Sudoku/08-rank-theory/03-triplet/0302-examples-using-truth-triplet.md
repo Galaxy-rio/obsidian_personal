@@ -1,5 +1,6 @@
 ---
 description: Examples Using Truth Triplet
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 强三元组的例子

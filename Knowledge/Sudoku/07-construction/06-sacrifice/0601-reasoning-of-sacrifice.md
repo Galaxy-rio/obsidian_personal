@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Sacrifice
+反向链接: "[[../construction|construction]]"
 ---
 
 # 牺牲的基本推理

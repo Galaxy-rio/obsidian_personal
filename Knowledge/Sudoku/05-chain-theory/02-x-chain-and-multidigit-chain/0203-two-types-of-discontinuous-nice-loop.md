@@ -1,5 +1,6 @@
 ---
 description: Two Types of Discontinuous Nice Loop
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 不连续环的两种模式

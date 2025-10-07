@@ -1,5 +1,6 @@
 ---
 description: Auto-increment & Auto-decrement
+反向链接: "[[rank-theory-advance]]"
 ---
 
 # 自增和自减

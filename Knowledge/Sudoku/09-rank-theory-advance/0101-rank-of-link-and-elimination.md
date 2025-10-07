@@ -1,5 +1,6 @@
 ---
 description: Rank of Link & Elimination
+反向链接: "[[rank-theory-advance]]"
 ---
 
 # 弱区域和删数的秩

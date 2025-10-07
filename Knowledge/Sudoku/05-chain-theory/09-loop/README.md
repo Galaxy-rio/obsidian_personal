@@ -1,5 +1,6 @@
 ---
 description: Loop
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 环

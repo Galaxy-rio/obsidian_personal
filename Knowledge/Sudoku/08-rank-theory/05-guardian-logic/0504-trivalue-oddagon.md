@@ -1,5 +1,6 @@
 ---
 description: Trivalue Oddagon
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 三值死环

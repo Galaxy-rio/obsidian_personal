@@ -1,5 +1,6 @@
 ---
 description: Loop Views of Subset, Fish & Almost Locked Candidates
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 数组、鱼和欠一数对的环视角

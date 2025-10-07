@@ -1,5 +1,6 @@
 ---
 description: Extended Subset Principle
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 伪数组（ESP）

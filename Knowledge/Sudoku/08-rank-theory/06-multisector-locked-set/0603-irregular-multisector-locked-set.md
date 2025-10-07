@@ -1,5 +1,6 @@
 ---
 description: Irregular Multisector Locked Set
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 不规则网

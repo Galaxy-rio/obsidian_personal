@@ -1,5 +1,6 @@
 ---
 description: Almost Hidden Set Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 隐性待定数组链（AHS 链）

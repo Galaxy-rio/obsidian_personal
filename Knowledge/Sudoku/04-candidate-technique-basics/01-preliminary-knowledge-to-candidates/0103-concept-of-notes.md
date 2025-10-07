@@ -1,5 +1,6 @@
 ---
 description: Concept of Notes
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 笔记的概念

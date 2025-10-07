@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Truth Triplet
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 强三元组的基本推理

@@ -1,5 +1,6 @@
 ---
 description: Dynamic Chain
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 动态链

@@ -1,5 +1,6 @@
 ---
 description: Condition of Forming Unique Loop
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 唯一环的形成条件

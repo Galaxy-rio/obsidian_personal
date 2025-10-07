@@ -1,5 +1,6 @@
 ---
 description: HoDoKu Library Technique Codes
+反向链接: "[[../appendix|appendix]]"
 ---
 
 # HoDoKu 技巧编号一览表

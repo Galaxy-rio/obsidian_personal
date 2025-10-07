@@ -1,5 +1,6 @@
 ---
 description: Almost Locked Set Chain
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 待定数组链

@@ -1,5 +1,6 @@
 ---
 description: X-Coloring
+反向链接: "[[../wrapping|wrapping]]"
 ---
 
 # 同数染色

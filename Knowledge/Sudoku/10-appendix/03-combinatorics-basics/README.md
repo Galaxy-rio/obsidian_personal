@@ -1,5 +1,6 @@
 ---
 description: Combinatorics Basics
+反向链接: "[[../appendix|appendix]]"
 ---
 
 # 组合数学基础

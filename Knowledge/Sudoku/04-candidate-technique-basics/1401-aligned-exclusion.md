@@ -1,5 +1,6 @@
 ---
 description: Aligned Exclusion
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 均衡数组

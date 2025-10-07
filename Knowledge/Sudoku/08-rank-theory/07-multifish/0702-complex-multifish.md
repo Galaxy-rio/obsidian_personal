@@ -1,5 +1,6 @@
 ---
 description: Complex Multifish
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 复杂复数鱼

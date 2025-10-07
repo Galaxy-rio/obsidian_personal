@@ -1,5 +1,6 @@
 ---
 description: Extended Rectangle
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 拓展矩形（XR）

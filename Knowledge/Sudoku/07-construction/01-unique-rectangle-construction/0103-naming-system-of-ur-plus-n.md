@@ -1,5 +1,6 @@
 ---
 description: Naming System of Unique Rectangle + n
+反向链接: "[[../construction|construction]]"
 ---
 
 # 代入唯一矩形的命名

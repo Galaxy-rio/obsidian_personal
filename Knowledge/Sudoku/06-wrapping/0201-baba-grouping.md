@@ -1,5 +1,6 @@
 ---
 description: Baba Grouping
+反向链接: "[[wrapping]]"
 ---
 
 # 代数法

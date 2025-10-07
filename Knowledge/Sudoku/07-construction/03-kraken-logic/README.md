@@ -1,5 +1,6 @@
 ---
 description: Kraken Logic
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛刺和毛边

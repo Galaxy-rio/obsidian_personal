@@ -1,5 +1,6 @@
 ---
 description: Looking of Direct & Partial-Marking Techniques in Full-Marking Grids
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 直观和局标技巧在全标下的样子

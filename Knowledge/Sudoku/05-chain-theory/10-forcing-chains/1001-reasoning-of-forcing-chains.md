@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Forcing Chains
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 强制链的基本推理

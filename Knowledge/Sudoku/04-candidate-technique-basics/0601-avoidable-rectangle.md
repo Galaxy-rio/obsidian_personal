@@ -1,5 +1,6 @@
 ---
 description: Avoidable Rectangle
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 可规避矩形（AR）

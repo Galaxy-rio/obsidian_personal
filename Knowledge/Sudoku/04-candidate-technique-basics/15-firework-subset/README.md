@@ -1,5 +1,6 @@
 ---
 description: Firework Subset
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 烟花数组

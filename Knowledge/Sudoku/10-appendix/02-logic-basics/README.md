@@ -1,5 +1,6 @@
 ---
 description: Logic Basics
+反向链接: "[[../appendix|appendix]]"
 ---
 
 # 逻辑学基础

@@ -1,5 +1,6 @@
 ---
 description: Naming of Fish
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 鱼的命名

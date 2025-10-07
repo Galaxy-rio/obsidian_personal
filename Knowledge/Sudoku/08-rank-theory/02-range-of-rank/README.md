@@ -1,5 +1,6 @@
 ---
 description: Range of Rank
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 秩的三种取值

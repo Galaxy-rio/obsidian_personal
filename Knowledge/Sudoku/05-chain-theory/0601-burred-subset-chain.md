@@ -1,5 +1,6 @@
 ---
 description: Burred Subset Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 毛刺数组链

@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Guardian
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 守护者的基本推理

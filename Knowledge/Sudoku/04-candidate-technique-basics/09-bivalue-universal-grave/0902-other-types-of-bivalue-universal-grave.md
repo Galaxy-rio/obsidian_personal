@@ -1,5 +1,6 @@
 ---
 description: Other Types of Bi-value Universal Grave
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 全双值格致死解法的其他类型

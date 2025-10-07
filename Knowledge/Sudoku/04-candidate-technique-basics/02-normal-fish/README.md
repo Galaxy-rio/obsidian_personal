@@ -1,5 +1,6 @@
 ---
 description: Normal Fish
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 标准鱼

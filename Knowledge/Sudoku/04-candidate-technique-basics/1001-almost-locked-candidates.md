@@ -1,5 +1,6 @@
 ---
 description: Almost Locked Candidates
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 欠一数组（ALC）

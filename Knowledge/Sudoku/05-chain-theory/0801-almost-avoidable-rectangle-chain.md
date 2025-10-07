@@ -1,5 +1,6 @@
 ---
 description: Almost Avoidable Rectangle Chain
+反向链接: "[[chain-theory]]"
 ---
 
 # 待定可规避矩形链（AAR 链）

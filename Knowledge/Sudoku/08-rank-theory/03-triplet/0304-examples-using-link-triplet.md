@@ -1,5 +1,6 @@
 ---
 description: Examples Using Link Triplet
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 弱三元组的例子

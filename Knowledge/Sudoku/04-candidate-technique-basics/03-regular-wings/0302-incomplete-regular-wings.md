@@ -1,5 +1,6 @@
 ---
 description: Incomplete Regular Wings
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # XY-Wing 及推广的残缺逻辑

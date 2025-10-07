@@ -1,5 +1,6 @@
 ---
 description: Elimination Analysis on Dynamic Grouped Loop
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 动态区块环的删数分析

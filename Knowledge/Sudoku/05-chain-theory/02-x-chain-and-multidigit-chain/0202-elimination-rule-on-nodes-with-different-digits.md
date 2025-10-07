@@ -1,5 +1,6 @@
 ---
 description: Elimination Rule on Nodes with Different Digits
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 头尾异数链的删数规则

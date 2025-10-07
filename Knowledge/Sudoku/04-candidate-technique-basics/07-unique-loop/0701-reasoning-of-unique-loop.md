@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Unique Loop
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 唯一环的基本推理

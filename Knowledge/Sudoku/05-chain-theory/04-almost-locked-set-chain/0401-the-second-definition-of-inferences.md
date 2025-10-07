@@ -1,5 +1,6 @@
 ---
 description: The Second Definition of Inferences
+反向链接: "[[../chain-theory|chain-theory]]"
 ---
 
 # 链关系的第二定义

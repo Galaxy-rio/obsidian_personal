@@ -1,5 +1,6 @@
 ---
 description: Preliminary Knowledge to Candidates
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 候选数初步

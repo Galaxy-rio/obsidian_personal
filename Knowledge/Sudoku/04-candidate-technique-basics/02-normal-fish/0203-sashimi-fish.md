@@ -1,5 +1,6 @@
 ---
 description: Sashimi Fish
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 退化鱼

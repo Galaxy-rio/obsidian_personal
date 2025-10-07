@@ -1,5 +1,6 @@
 ---
 description: Distributed Disjoint Subset
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 跨区数组（DDS）

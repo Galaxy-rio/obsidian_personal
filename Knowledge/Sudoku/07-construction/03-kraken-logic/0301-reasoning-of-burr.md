@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Burr
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛刺的基本推理

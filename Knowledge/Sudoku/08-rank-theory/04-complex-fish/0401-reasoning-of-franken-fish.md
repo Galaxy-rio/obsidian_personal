@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Franken Fish
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 宫内鱼的基本推理

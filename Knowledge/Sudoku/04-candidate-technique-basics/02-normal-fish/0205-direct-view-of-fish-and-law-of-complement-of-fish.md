@@ -1,5 +1,6 @@
 ---
 description: Direct View of Fish & Law of Complement of Fish
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 鱼的直观和互补性

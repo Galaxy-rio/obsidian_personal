@@ -1,5 +1,6 @@
 ---
 description: Difference between Negative-Rank Patterns & Invalid Grids
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 负秩结构和无解局面的区别

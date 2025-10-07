@@ -1,5 +1,6 @@
 ---
 description: Incomplete Unique Rectangle
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 残缺唯一矩形

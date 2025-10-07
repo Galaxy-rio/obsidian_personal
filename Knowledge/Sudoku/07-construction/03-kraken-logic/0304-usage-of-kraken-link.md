@@ -1,5 +1,6 @@
 ---
 description: Usage of Kraken Link
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛边的使用

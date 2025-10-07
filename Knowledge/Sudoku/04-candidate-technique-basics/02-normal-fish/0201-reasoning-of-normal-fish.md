@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Normal Fish
+反向链接: "[[../candidate-technique-basics|candidate-technique-basics]]"
 ---
 
 # 鱼的基本推理

@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Mutant Fish
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 交叉鱼的基本推理

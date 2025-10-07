@@ -1,5 +1,6 @@
 ---
 description: Sue de Coq
+反向链接: "[[candidate-technique-basics]]"
 ---
 
 # 融合待定数组（SdC）

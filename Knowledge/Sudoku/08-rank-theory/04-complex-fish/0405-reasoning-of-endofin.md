@@ -1,5 +1,6 @@
 ---
 description: Reasoning of Endofin
+反向链接: "[[../rank-theory|rank-theory]]"
 ---
 
 # 内鱼鳍的基本推理

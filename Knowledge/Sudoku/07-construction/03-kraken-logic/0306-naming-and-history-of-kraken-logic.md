@@ -1,5 +1,6 @@
 ---
 description: Naming & History of Kraken Logic
+反向链接: "[[../construction|construction]]"
 ---
 
 # 毛刺、毛边的由来历史和翻译
