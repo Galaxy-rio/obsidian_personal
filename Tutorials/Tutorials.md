@@ -30,3 +30,15 @@ views:
 
 ```
 
+## Obsidian
+
+```base
+filters:
+  and:
+    - file.inFolder("Tutorials/Obsidian")
+views:
+  - type: cards
+    name: 表格
+    cardSize: 400
+
+```

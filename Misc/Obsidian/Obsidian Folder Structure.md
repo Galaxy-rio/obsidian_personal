@@ -6,7 +6,7 @@ status: Done
 tags:
   - Obsidian
   - Structure
-类别: "[[../Msic|Msic]]"
+类别: "[[../Misc|Misc]]"
 cssclasses:
   - misc
 ---
