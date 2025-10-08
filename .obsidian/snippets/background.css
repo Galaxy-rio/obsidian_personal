@@ -1,10 +1,10 @@
 body:not(.is-mobile) .app-container::before {
-  background-image: url("file:///C:/Users/galaxyrio/Pictures/42.jpg");
+  background-image: url("https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/005KFqw0gy1i64vvben2wj34mo1p4he5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 
-  opacity: 0.2;
+  opacity: 0.05;
   content: "";
   position: fixed;
   inset: 0;
