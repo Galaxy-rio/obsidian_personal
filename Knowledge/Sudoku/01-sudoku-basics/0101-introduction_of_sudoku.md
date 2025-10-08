@@ -11,9 +11,9 @@ description: Welcome to Sudoku!
 
 本教程尚不支持其他语言版本。不过后续我会考虑将其翻译成英语版本。敬请期待。
 
-## 数独规则 <a href="#rules-of-sudoku" id="rules-of-sudoku"></a>
+## 数独规则
 
-<figure><img src=".gitbook/assets/images_0245.png" alt="" width="375"><figcaption><p>一个样例盘面</p></figcaption></figure>
+![[../00-assets/0001|数独示例]]
 
 如图所示。我们可以看到，整个游戏会使用 9 × 9 一共 81 个单元格，我们将整个游戏棋盘称为一个**盘面**（Grid）。
 
@@ -23,7 +23,7 @@ description: Welcome to Sudoku!
 
 只是说，你需要完整完成一道题，使得全部的空格都填满数字。图示只给出了其中第 5 行、第 5 列和第 5 个“小宫格”里满足需求的情况。
 
-## 术语介绍 <a href="#terms-list" id="terms-list"></a>
+## 术语介绍
 
 下面简要介绍一下数独需要掌握的基本的术语词汇。
 
@@ -35,7 +35,7 @@ description: Welcome to Sudoku!
 
 这些术语都是基础词汇，需要掌握；后续的教程内容也会使用这些词语来简化表达的内容。
 
-## 一些要求 <a href="#requirements" id="requirements"></a>
+## 一些要求
 
 在完成一个数独题目的时候，我们会有一些基础的信息作为辅助，并非上手就给玩家完成。
 
