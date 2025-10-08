@@ -1,0 +1,13 @@
+body:not(.is-mobile) .app-container::before {
+  background-image: url("file:///C:/Users/galaxyrio/Pictures/42.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  opacity: 0.2;
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}

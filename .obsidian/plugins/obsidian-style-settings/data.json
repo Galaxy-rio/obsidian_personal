@@ -8,7 +8,6 @@
   "cupertino@@active-line-off": false,
   "cupertino@@tabs-autosize-off": false,
   "cupertino@@clean-link-off": false,
-  "cupertino@@accented-frame-opacity": 15,
   "cupertino@@hover-sidedock-off": true,
   "cupertino@@compact-actions-off": true,
   "cupertino@@hide-status-off": true,
@@ -16,5 +15,8 @@
   "cupertino@@center-tabs-off": true,
   "cupertino@@hide-frontmatter-off": false,
   "cupertino@@empty-state-off": false,
-  "cupertino@@full-width-off": true
+  "cupertino@@full-width-off": true,
+  "background-under-frame@@light-background-image": "url(https://i.pximg.net/img-original/img/2025/07/25/05/05/04/133081649_p0.png)",
+  "background-under-frame@@dark-background-image": "url(https://i.pximg.net/img-original/img/2025/07/25/05/05/04/133081649_p0.png)",
+  "cupertino@@accented-frame-opacity": 0
 }

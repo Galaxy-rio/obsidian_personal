@@ -13,7 +13,9 @@
     "floating-search-bar",
     "metadata_books",
     "metadata_museion",
-    "sudoku"
+    "sudoku",
+    "侧边栏背景",
+    "background"
   ],
   "monospaceFontFamily": "Consolas",
   "showRibbon": true,
