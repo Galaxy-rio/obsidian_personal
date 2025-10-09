@@ -3,7 +3,6 @@
   "cssTheme": "Cupertino",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "banner_fix",
     "custom-background",
     "custom-rainbow-colors",
     "minimal-cards",
@@ -15,7 +14,8 @@
     "metadata_museion",
     "sudoku",
     "侧边栏背景",
-    "background"
+    "background",
+    "banner_fix"
   ],
   "monospaceFontFamily": "Consolas",
   "showRibbon": true,
