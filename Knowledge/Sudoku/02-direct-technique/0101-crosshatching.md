@@ -9,7 +9,7 @@ description: Crosshatching
 
 > 排除早期也被称为**摒（bìng）除**，一般认为是台湾地区引入数独的时候传入大陆的说法。后续还有一些技巧也会沿用台湾的叫法称呼，到时候也会说明一下。
 
-## 宫排除（Crosshatching in Block） <a href="#crosshatching-in-block" id="crosshatching-in-block"></a>
+## 宫排除（Crosshatching in Block）
 
 我们把顺序调整一下，先来说说**宫排除**（Crosshatching in Block）。
 

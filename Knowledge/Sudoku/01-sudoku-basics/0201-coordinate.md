@@ -2,7 +2,7 @@
 description: Coordinate
 反向链接: "[[sudoku-basics]]"
 ---
-
+#ToDO
 # 坐标
 
 下面介绍本教程使用的所有坐标表达的规范。
