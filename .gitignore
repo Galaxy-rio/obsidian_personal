@@ -8,6 +8,7 @@ Thumbs.db
 .obsidian/appearance.css
 .obsidian/app.json
 .obsidian/workspace.json
+.obsidian/icons/
 
 # === 仅忽略特定配置文件（保留其他设置方便多设备同步） ===
 .obsidian/community-plugins.json
@@ -23,3 +24,4 @@ Thumbs.db
 *.bak
 *.swp
 *~
+

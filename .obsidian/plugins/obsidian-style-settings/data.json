@@ -11,7 +11,7 @@
   "cupertino@@hover-sidedock-off": true,
   "cupertino@@compact-actions-off": true,
   "cupertino@@hide-status-off": true,
-  "cupertino@@image-zoom-off": false,
+  "cupertino@@image-zoom-off": true,
   "cupertino@@center-tabs-off": true,
   "cupertino@@hide-frontmatter-off": false,
   "cupertino@@empty-state-off": false,
