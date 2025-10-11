@@ -22,3 +22,12 @@ tags: [Index]
 ## [[Tutorials/Tutorials|Tutorials]]
 > 教程
 
+```base
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("ToDO")
+
+```
