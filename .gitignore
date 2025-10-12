@@ -4,6 +4,7 @@ Thumbs.db
 
 # === Obsidian 本地状态（不建议同步） ===
 .obsidian/workspace
+.obsidian/icons/
 .obsidian/workspace-mobile.json
 .obsidian/appearance.css
 .obsidian/app.json
