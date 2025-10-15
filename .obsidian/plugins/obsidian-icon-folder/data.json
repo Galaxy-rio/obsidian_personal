@@ -5,22 +5,8 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-<<<<<<< HEAD
-      "LiFilm",
-      "LiBook",
-      "LiFlower",
-      "LiCompass",
-      "LiClipboardList"
-=======
-      "LiCompass",
-      "LiDatabase",
-      "LiFileCode2",
-      "LiFlower",
-      "LiFilm"
->>>>>>> origin/main
-    ],
-    "recentlyUsedIconsSize": 10,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -38,30 +24,5 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  },
-  "Bases": "LiDatabase",
-  "Curio": "LiFan",
-<<<<<<< HEAD
-  "Knowledge": "LiGraduationCap",
-  "Misc": "LiBadgeInfo",
-  "Museion": "LiPalette",
-  "Template": "LiLayoutTemplate",
-  "Tutorials": "LiClipboardList",
-  "README.md": "LiCompass",
-  "Museion/Anime": "LiFlower",
-  "Museion/Books": "LiBook",
-  "Museion/Movies": "LiFilm"
-=======
-  "Daily": "LiCalendar",
-  "Inbox": "LiInbox",
-  "Knowledge": "LiGraduationCap",
-  "Museion": "LiPalette",
-  "Template": "LiLayoutTemplate",
-  "Tutorials": "LiClipboardList",
-  "Misc": "LiBadgeInfo",
-  "Museion/Anime": "LiFlower",
-  "Museion/Books": "LiBook",
-  "Museion/Movies": "LiFilm",
-  "README.md": "LiCompass"
->>>>>>> origin/main
+  }
 }
